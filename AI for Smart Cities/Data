@@ -1,0 +1,9 @@
+Extract clean pollution data (SO₂, NO₂, PM10) for each year
+Pollution Levels (Average µg/m³) from 2011–2015:
+
+Year	SO₂	NO₂	PM10
+2011	10.38	22.93	106.63
+2012	10.11	22.97	108.66
+2013	8.75	20.85	100.82
+2014	8.64	20.88	95.17
+2015	8.60	21.40	94.77
